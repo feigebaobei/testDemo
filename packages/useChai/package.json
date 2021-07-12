@@ -1,0 +1,29 @@
+{
+  "name": "usechai",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "feigebaobei <18515195415@163.com>",
+  "homepage": "https://github.com/feigebaobei/testDemo#readme",
+  "license": "ISC",
+  "main": "lib/useChai.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feigebaobei/testDemo.git"
+  },
+  "scripts": {
+    "test": "node __tests__/useChai.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/feigebaobei/testDemo/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
