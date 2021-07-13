@@ -2,12 +2,12 @@
 0 silly argv   _: [ 'create' ],
 0 silly argv   lernaVersion: '4.0.0',
 0 silly argv   '$0': 'lerna',
-0 silly argv   name: 'useQunit'
+0 silly argv   name: 'useAva'
 0 silly argv }
 1 notice cli v4.0.0
 2 verbose rootPath /Users/cat/Documents/code/company/testDemo
 3 error Error: canceled
-3 error     at Interface.<anonymous> (/Users/cat/.nvm/versions/node/v14.15.3/lib/node_modules/lerna/node_modules/read/lib/read.js:66:13)
+3 error     at Interface.<anonymous> (/Users/cat/Documents/code/company/testDemo/node_modules/read/lib/read.js:66:13)
 3 error     at Interface.emit (events.js:315:20)
 3 error     at Interface._ttyWrite (readline.js:875:16)
 3 error     at ReadStream.onkeypress (readline.js:213:10)

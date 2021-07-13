@@ -1,0 +1,10 @@
+{
+    "default": "rgb(255, 255, 255)",
+    "primary": "rgb(33, 102, 231)",
+    "success": "rgb(34, 172, 56)",
+    "info": "rgb(33, 102, 231)",
+    "warning": "rgb(255, 191, 0)",
+    "danger": "rgb(255, 80, 80)",
+    "normal": "rgb(227, 228, 229)",
+    "text": "rgba(0, 0, 0, 0)"
+}
