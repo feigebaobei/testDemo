@@ -18,7 +18,9 @@
     "url": "git+https://github.com/feigebaobei/testDemo.git"
   },
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "testCustConfig": "jasmine --config=__tests__/config.json",
+    "testUseApi": "node  __tests__/firstTestApi.js"
   },
   "bugs": {
     "url": "https://github.com/feigebaobei/testDemo/issues"

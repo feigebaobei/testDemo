@@ -2,7 +2,7 @@ import { mount } from '@cypress/vue'
 import MsgTip from './MsgTip.vue'
 it('renders a message', () => {
   mount(MsgTip, {
-    propsData: {
+    props: {
       msg: 'Hello Cypress!',
     },
   })

@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/feigebaobei/testDemo/issues"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }

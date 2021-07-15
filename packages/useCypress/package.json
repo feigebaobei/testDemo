@@ -18,7 +18,8 @@
     "url": "git+https://github.com/feigebaobei/testDemo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "testCy": "cypress open",
+    "testCyCt": "cypress open-ct"
   },
   "bugs": {
     "url": "https://github.com/feigebaobei/testDemo/issues"
